@@ -1,82 +1,69 @@
-# Hi there, I'm Abdelrahman Salah! 👋
-
+# Hi there, I'm Abdelrahman Salah 👋
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&width=500&lines=Backend+Software+Engineer;Node.js+%7C+Python+%7C+TypeScript;Microservices+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=500&lines=Backend+Software+Engineer;Microservices+Architect;MERN+%2F+FastAPI+Developer" alt="Typing SVG" />
   </a>
 </p>
 
-Backend-focused Software Engineer specializing in architecting scalable server-side systems, microservices, and AI-integrated applications. I build high-performance distributed systems using Node.js, Python, and robust database architectures.
+Backend-focused Software Engineer with a passion for architecting highly scalable distributed systems, real-time architectures, and AI-integrated applications. I enjoy writing clean, optimized code and solving complex database engineering problems[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack & Expertise
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Backend & Frameworks</strong></td>
-    <td align="center" width="25%"><strong>Databases & Caching</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Frontend</strong></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      • JavaScript<br>
-      • TypeScript<br>
-      • Python<br>
-      • C++ / C#
-    </td>
-    <td align="left" valign="top">
-      • Node.js / Express.js<br>
-      • Python FastAPI<br>
-      • RESTful APIs<br>
-      • Socket.io (Real-time)<br>
-      • Microservices
-    </td>
-    <td align="left" valign="top">
-      • PostgreSQL<br>
-      • MongoDB / Mongoose<br>
-      • MySQL / Sequelize<br>
-      • Redis (Caching)
-    </td>
-    <td align="left" valign="top">
-      • Docker<br>
-      • AWS / Linux CLI<br>
-      • React.js / Next.js<br>
-      • Bootstrap
-    </td>
-  </tr>
-</table>
+### 🖥️ Core Backend & Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4C9689)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🗄️ Databases, Caching & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🎨 Frontend Ecosystem
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 Highlighted Engineering Projects
 
-#### 🏢 **GoRent** | Property Rental Platform (Team Leader)
-*   **Architecture:** Built a robust RESTful API featuring a strict 4-tier role system (Tenant, Owner, Admin, Super Admin) utilizing secure JWTs via HTTP-only cookies.
-*   **Geospatial Processing:** Designed location-aware query pipelines using MongoDB `2dsphere` indexing for highly accurate proximity filtering.
-*   **Real-Time & Finance:** Integrated Stripe/Paymob webhooks for transactional state tracking and built a high-concurrency real-time chat with Socket.io.
+### 🏢 **GoRent** — Property Rental Platform (Team Leader)
+> **A high-concurrency, 4-tier role system infrastructure engineered for modern property leasing.**[cite: 1]
+*   **Security & Auth:** Formulated a strict multi-tier RBAC system (Tenant, Owner, Admin, Super Admin) utilizing secure JWTs transported exclusively via HTTP-only cookies[cite: 1].
+*   **Geospatial Architecture:** Built proximity and location-aware property matching filters utilizing MongoDB `2dsphere` index query pipelines[cite: 1].
+*   **Real-time Communication:** Designed a high-throughput chat network using `Socket.io` with persistent database message streaming and state logging[cite: 1].
+*   **Payment Infrastructure:** Automated ledger state flows via Stripe and Paymob webhook listeners to safely intercept multi-stage transactional states[cite: 1].
 
-#### 🤟 **Arabic Sign Language Translator** | Multimodal Web App
-*   **Multi-Service System:** Engineered an inter-service communication pipeline linking a robust Node.js web traffic routing layer with a high-performance Python FastAPI AI microservice.
-*   **Asset Management:** Connected Cloudinary pipelines via Multer middleware to stream and deliver video assets cleanly at scale.
+### 🤟 **Arabic Sign Language Translator** — AI-Integrated Web App
+> **A multi-service ecosystem bridging modern AI processing engines with robust web clients.**[cite: 1]
+*   **Inter-Service Sync:** Engineered seamless inter-service communication connecting a Python FastAPI AI system with a Node.js entry application gateway[cite: 1].
+*   **Media Processing:** Formulated high-volume video asset streams using Cloudinary cloud storage layers orchestrated through Multer middleware[cite: 1].
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 📊 Git Insights & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman15Salah&show_icons=true&theme=tokyonight&count_private=true" alt="Abdelrahman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman15Salah&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman15Salah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Abdelrahman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman15Salah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman15Salah&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman15Salah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+## 📬 Let's Collaborate!
 
 <p align="left">
   <a href="mailto:abdelrahman15salah@gmail.com">
@@ -87,5 +74,8 @@ Backend-focused Software Engineer specializing in architecting scalable server-s
   </a>
 </p>
 
-***
-*“Simplicity is the soul of efficiency.”* 💻🔥
+<br />
+
+<p align="center">
+  <sub>Built with Code, Coffee, and Clean Architecture. ☕</sub>
+</p>
