@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Salah 👋
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=500&lines=Backend+Software+Engineer;Microservices+Architect;MERN+%2F+FastAPI+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=500&lines=Backend+Software+Engineer;Microservices+Architect;MERN+" alt="Typing SVG" />
   </a>
 </p>
 
