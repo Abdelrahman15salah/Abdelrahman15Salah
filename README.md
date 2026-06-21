@@ -1,11 +1,11 @@
 # Hi there, I'm Abdelrahman Salah 👋
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=500&lines=Backend+Software+Engineer;Microservices+Architect;MERN+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=500&lines=Backend+Software+Engineer;Microservices+Architect;MERN+Stack+Developer;Real-Time+Systems+Builder" alt="Typing SVG" />
   </a>
 </p>
 
-Backend-focused Software Engineer with a passion for architecting highly scalable distributed systems, real-time architectures, and AI-integrated applications. I enjoy writing clean, optimized code and solving complex database engineering problems[cite: 1].
+Backend-focused Software Engineer with a passion for architecting highly scalable distributed systems, real-time architectures, and AI-integrated applications. I enjoy writing clean, optimized code and solving complex database engineering problems.
 
 ---
 
@@ -37,31 +37,19 @@ Backend-focused Software Engineer with a passion for architecting highly scalabl
 ## 🚀 Highlighted Engineering Projects
 
 ### 🏢 **GoRent** — Property Rental Platform (Team Leader)
-> **A high-concurrency, 4-tier role system infrastructure engineered for modern property leasing.**[cite: 1]
-*   **Security & Auth:** Formulated a strict multi-tier RBAC system (Tenant, Owner, Admin, Super Admin) utilizing secure JWTs transported exclusively via HTTP-only cookies[cite: 1].
-*   **Geospatial Architecture:** Built proximity and location-aware property matching filters utilizing MongoDB `2dsphere` index query pipelines[cite: 1].
-*   **Real-time Communication:** Designed a high-throughput chat network using `Socket.io` with persistent database message streaming and state logging[cite: 1].
-*   **Payment Infrastructure:** Automated ledger state flows via Stripe and Paymob webhook listeners to safely intercept multi-stage transactional states[cite: 1].
+> **A high-concurrency, 4-tier role system infrastructure engineered for modern property leasing.**
+
+*   **Security & Auth:** Formulated a strict multi-tier RBAC system (Tenant, Owner, Admin, Super Admin) utilizing secure JWTs transported exclusively via HTTP-only cookies.
+*   **Geospatial Architecture:** Built proximity and location-aware property matching filters utilizing MongoDB `2dsphere` index query pipelines.
+*   **Real-time Communication:** Designed a high-throughput chat network using `Socket.io` with persistent database message streaming and state logging.
+*   **Payment Infrastructure:** Automated ledger state flows via Stripe and Paymob webhook listeners to safely intercept multi-stage transactional states.
 
 ### 🤟 **Arabic Sign Language Translator** — AI-Integrated Web App
-> **A multi-service ecosystem bridging modern AI processing engines with robust web clients.**[cite: 1]
-*   **Inter-Service Sync:** Engineered seamless inter-service communication connecting a Python FastAPI AI system with a Node.js entry application gateway[cite: 1].
-*   **Media Processing:** Formulated high-volume video asset streams using Cloudinary cloud storage layers orchestrated through Multer middleware[cite: 1].
+> **A multi-service ecosystem bridging modern AI processing engines with robust web clients.**
 
----
+*   **Inter-Service Sync:** Engineered seamless inter-service communication connecting a Python FastAPI AI system with a Node.js entry application gateway.
+*   **Media Processing:** Formulated high-volume video asset streams using Cloudinary cloud storage layers orchestrated through Multer middleware.
 
-## 📊 Git Insights & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman15Salah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Abdelrahman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman15Salah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman15Salah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 ## 📬 Let's Collaborate!
 
@@ -75,6 +63,8 @@ Backend-focused Software Engineer with a passion for architecting highly scalabl
 </p>
 
 <br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman15Salah&color=38BDF8&style=flat-square&label=Profile+Views)
 
 <p align="center">
   <sub>Built with Code, Coffee, and Clean Architecture. ☕</sub>
